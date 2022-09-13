@@ -146,6 +146,7 @@ header {
     font-size: 20px;
     letter-spacing: 5px;
     padding: 7px 30px;
+    color: hsl(0, 0%, 0%);
     background: hsl(0, 0%, 100%);
     border: 2px solid hsl(0, 0%, 0%);
 }
